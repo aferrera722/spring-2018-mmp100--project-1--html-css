@@ -11,8 +11,9 @@ body {
 h1, h2, h3 {
 
 
-font-family:  'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Shadows Into Light', cursive;
 
-   font-size: 48px;
+   font-size: 56px;
 
    text-align: center;
